@@ -17,8 +17,8 @@ This repository is designed for anyone who wants to learn web development by doi
 ### 🟢 LEVEL 1: HTML + CSS Foundation
 *Build the layout and design of the web.*
 - [x] **Project 1: Personal Profile Page** (Foundations, Box Model, Images)
-- [ ] **Project 2: Login Page UI** (Forms, Inputs, CSS Centering)
-- [ ] **Project 3: Simple 3-Page Website** (Navigation, Linking, Multi-page structure)
+- [x] **Project 2: Login Page UI** (Forms, Inputs, CSS Centering)
+- [x] **Project 3: Simple 3-Page Website** (Navigation, Linking, Multi-page structure)
 
 ### 🟡 LEVEL 2: JavaScript Logic (The Brain)
 *Learn how to make things move and think.*
