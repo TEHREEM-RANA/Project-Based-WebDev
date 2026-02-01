@@ -22,7 +22,7 @@ This repository is designed for anyone who wants to learn web development by doi
 
 ### 🟡 LEVEL 2: JavaScript Logic (The Brain)
 *Learn how to make things move and think.*
-- [ ] **Project 4: Counter App** (Variables, Functions, DOM Events)
+- [x] **Project 4: Counter App** (Variables, Functions, DOM Events)
 - [ ] **Project 5: Color Changer** (Random Logic, Style Manipulation)
 - [ ] **Project 6: Simple Calculator** (Math Logic, If/Else Conditions)
 
