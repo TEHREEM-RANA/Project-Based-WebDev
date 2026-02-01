@@ -66,5 +66,5 @@ I am **Tehreem Rana**, building my way to becoming a Senior Developer.
 - **Email:** tehreemr61@gmail.com
 
 ---
-*Consistency is more important than speed!*
+*Consistency is more important than speed!.
 *If this roadmap helps you, give it a ⭐ to show your support!*
