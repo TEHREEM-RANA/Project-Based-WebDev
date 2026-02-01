@@ -5,14 +5,14 @@ This repository is designed for anyone who wants to learn web development by doi
 
 ---
 
-## 🏗️ My Learning Philosophy
+##  My Learning Philosophy
 1. **Commented Code:** Every file has detailed comments explaining the *syntax* and the *logic*.
 2. **Increasing Difficulty:** Each project adds 10% more difficulty.
 3. **No Copy-Pasting:** Look at the code, understand the logic, and try to build it yourself!
 
 ---
 
-## 🗺️ The Roadmap
+##  The Roadmap
 
 ### 🟢 LEVEL 1: HTML + CSS Foundation
 *Build the layout and design of the web.*
@@ -52,7 +52,7 @@ This repository is designed for anyone who wants to learn web development by doi
 
 ---
 
-## 🛠️ How to use this Repo
+##  How to use this Repo
 1. **Navigate** to the folder of the project you want to learn.
 2. **Read the `index.html`** first to see the structure.
 3. **Check the `style.css`** to see how design is applied.
